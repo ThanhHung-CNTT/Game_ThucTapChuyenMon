@@ -716,7 +716,7 @@ PrefabInstance:
     - target: {fileID: 2357692501709036762, guid: dff91eeaf676c5147aa3045cb1e5894c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.58
+      value: -1.58
       objectReference: {fileID: 0}
     - target: {fileID: 2357692501709036762, guid: dff91eeaf676c5147aa3045cb1e5894c,
         type: 3}
@@ -763,6 +763,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2950079258309181195, guid: dff91eeaf676c5147aa3045cb1e5894c,
+        type: 3}
+      propertyPath: tomatoPrefab
+      value: 
+      objectReference: {fileID: 5990403955173219915, guid: 5765fe7261886424ab6b1dc33bab6552,
+        type: 3}
+    - target: {fileID: 2950079258309181195, guid: dff91eeaf676c5147aa3045cb1e5894c,
+        type: 3}
+      propertyPath: kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: e238e42b86b74604794e016be2ee6241,
+        type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
