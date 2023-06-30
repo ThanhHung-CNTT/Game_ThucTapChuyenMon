@@ -30,3 +30,22 @@ Bước 3: Chạy chương trình
 "Game_ThucTapChuyenMon-main" --> Chọn vào thư mục "MasterChef"  --> Chọn "Open" và đợi Unity build các file cần thiết để sẵn sàng chạy Project và cho ra màn hình như thế này (Có thể mỗi máy sẽ có layout khác nhau nhưng vẫn đầy đủ các chức năng cần có)
 
 ![image](https://github.com/ThanhHung-CNTT/Game_ThucTapChuyenMon/assets/72698847/dda89b06-21d7-4f5e-972f-f8a314dcb9ae)
+
+  + Click vào thư mục "Scenes"
+
+    ![image](https://github.com/ThanhHung-CNTT/Game_ThucTapChuyenMon/assets/72698847/51e9e2f1-6d43-462d-a142-4aaa0c915d39)
+
+  + Double vào file "MainMenuScenes"
+
+    ![image](https://github.com/ThanhHung-CNTT/Game_ThucTapChuyenMon/assets/72698847/3c9c7d66-8d56-455f-b134-cf3e7b05afcf)
+
+  + Click vào tab "Game"
+
+    ![image](https://github.com/ThanhHung-CNTT/Game_ThucTapChuyenMon/assets/72698847/10576e2e-820c-4aa1-a227-c26791a03b83)
+
+  + Click vào nút mũi tên ngay chính giữa trên cùng màn hình
+
+    ![image](https://github.com/ThanhHung-CNTT/Game_ThucTapChuyenMon/assets/72698847/3e8b5a13-e22e-47d5-91b2-2a5fab417981)
+
+Vậy là có thể chạy được chương trình game. Chúc các bạn thành công!!
+
