@@ -1,6 +1,7 @@
 # Game_ThucTapChuyenMon
 
 Các bước chạy chương trình
+
 Bước 1: Cài đặt Unity
   + Vào link: https://unity.com/download  --> Click "Download for Windows"
   + Chạy file vừa download để install Unity Hub
