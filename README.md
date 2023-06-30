@@ -15,7 +15,11 @@ Bước 2: Tải project game trên github về và giải nén
     ![image](https://github.com/ThanhHung-CNTT/Game_ThucTapChuyenMon/assets/72698847/d73cc90f-4646-4980-8662-6ef03b837347)
 
 
+
+
   + Click vào "Download Zip" như hình dưới
+
+    
    ![image](https://github.com/ThanhHung-CNTT/Game_ThucTapChuyenMon/assets/72698847/a2f00a14-791e-46ed-96e7-448fc31c65a6)
 
   + Mở file nén .zip lên và giải nén
