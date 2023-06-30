@@ -22,8 +22,11 @@ Bước 2: Tải project game trên github về và giải nén
     
    ![image](https://github.com/ThanhHung-CNTT/Game_ThucTapChuyenMon/assets/72698847/a2f00a14-791e-46ed-96e7-448fc31c65a6)
 
-  + Mở file nén .zip lên và giải nén
+  + Mở file nén .zip đã download lên và giải nén
 
 Bước 3: Chạy chương trình
   + Mở lại Unity Hub
-  + Vào mục "Projects" --> Chọn "Open" --> Tìm đến nơi chứa thư mục được giải lén ở bước 2
+  + Vào mục "Projects" --> Chọn "Open" --> Tìm đến nơi chứa thư mục được giải lén ở bước 2 --> Double click vào thư mục
+"Game_ThucTapChuyenMon-main" --> Chọn vào thư mục "MasterChef"  --> Chọn "Open" và đợi Unity build các file cần thiết để sẵn sàng chạy Project và cho ra màn hình như thế này (Có thể mỗi máy sẽ có layout khác nhau nhưng vẫn đầy đủ các chức năng cần có)
+
+![image](https://github.com/ThanhHung-CNTT/Game_ThucTapChuyenMon/assets/72698847/dda89b06-21d7-4f5e-972f-f8a314dcb9ae)
