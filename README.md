@@ -1,4 +1,4 @@
-# Game_ThucTapChuyenMon
+# Hướng dẫn chạy Project Game
 
 Các bước chạy chương trình
 
