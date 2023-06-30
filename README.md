@@ -36,7 +36,7 @@ Bước 3: Chạy chương trình
 
     ![image](https://github.com/ThanhHung-CNTT/Game_ThucTapChuyenMon/assets/72698847/51e9e2f1-6d43-462d-a142-4aaa0c915d39)
 
-  + Double vào file "MainMenuScenes"
+  + Double click vào file "MainMenuScenes"
 
     ![image](https://github.com/ThanhHung-CNTT/Game_ThucTapChuyenMon/assets/72698847/3c9c7d66-8d56-455f-b134-cf3e7b05afcf)
 
